@@ -1,0 +1,450 @@
+col_A,col_B,col_C,col_H,col_AK
+1.4   Primäreinkommen der privaten Haushalte einschl. der privaten Organisationen ohne Erwerbszweck je Einwohnerin bzw. Einwohner,,,,
+in EUR,,,,
+,,,Zurück zum Inhaltsverzeichnis,
+Lfd. Nr.,EU-Code,Regional-schlüssel,Gebietseinheit,2023.0
+,,,,
+1,DE1,08,Baden-Württemberg,37878.196962464
+2,DE11,081,"Stuttgart, Regierungsbezirk",39647.6328246668
+3,DE111,08111,"Stuttgart, Landeshauptstadt, Stadtkreis",42867.3147234177
+4,DE112,08115,"Böblingen, Landkreis",40977.4781645467
+5,DE113,08116,"Esslingen, Landkreis",39882.5110268857
+6,DE114,08117,"Göppingen, Landkreis",36334.627181466
+7,DE115,08118,"Ludwigsburg, Landkreis",41221.5580136503
+8,DE116,08119,Rems-Murr-Kreis,38461.3263556715
+9,DE117,08121,"Heilbronn, Stadtkreis",48589.5645982634
+10,DE118,08125,"Heilbronn, Landkreis",38717.9788948439
+11,DE119,08126,Hohenlohekreis,38307.0085766265
+12,DE11A,08127,"Schwäbisch Hall, Landkreis",36384.0306608172
+13,DE11B,08128,Main-Tauber-Kreis,33805.2096136475
+14,DE11C,08135,"Heidenheim, Landkreis",33960.3705647934
+15,DE11D,08136,Ostalbkreis,37677.9998375173
+16,DE12,082,"Karlsruhe, Regierungsbezirk",37031.2121699467
+17,DE121,08211,"Baden-Baden, Stadtkreis",42708.0719291194
+18,DE122,08212,"Karlsruhe, Stadtkreis",37116.333048853
+19,DE123,08215,"Karlsruhe, Landkreis",37233.4057075365
+20,DE124,08216,"Rastatt, Landkreis",34687.8798956057
+21,DE125,08221,"Heidelberg, Stadtkreis",41613.6935252772
+22,DE126,08222,"Mannheim, Universitätsstadt, Stadtkreis",34790.6462671086
+23,DE127,08225,Neckar-Odenwald-Kreis,33178.718909056
+24,DE128,08226,Rhein-Neckar-Kreis,39452.8785123714
+25,DE129,08231,"Pforzheim, Stadtkreis",31799.4954096293
+26,DE12A,08235,"Calw, Landkreis",35655.847097572
+27,DE12B,08236,Enzkreis,38067.7232932459
+28,DE12C,08237,"Freudenstadt, Landkreis",36804.3732595119
+29,DE13,083,"Freiburg, Regierungsbezirk",35853.5482630553
+30,DE131,08311,"Freiburg im Breisgau, Stadtkreis",35037.1410947561
+31,DE132,08315,"Breisgau-Hochschwarzwald, Landkreis",36573.2483371515
+32,DE133,08316,"Emmendingen, Landkreis",35103.3815974932
+33,DE134,08317,Ortenaukreis,33933.3187404375
+34,DE135,08325,"Rottweil, Landkreis",36058.1882362829
+35,DE136,08326,Schwarzwald-Baar-Kreis,34185.6492079585
+36,DE137,08327,"Tuttlingen, Landkreis",38375.601341507
+37,DE138,08335,"Konstanz, Landkreis",36142.0483209032
+38,DE139,08336,"Lörrach, Landkreis",39680.3366272311
+39,DE13A,08337,"Waldshut, Landkreis",35653.4100709497
+40,DE14,084,"Tübingen, Regierungsbezirk",37707.90090418
+41,DE141,08415,"Reutlingen, Landkreis",37003.6082826488
+42,DE142,08416,"Tübingen, Landkreis",37890.1405919752
+43,DE143,08417,Zollernalbkreis,35870.3908535514
+44,DE144,08421,"Ulm, Universitätsstadt, Stadtkreis",42397.6513307838
+45,DE145,08425,Alb-Donau-Kreis,36915.6293835364
+46,DE146,08426,"Biberach, Landkreis",38663.2731797182
+47,DE147,08435,Bodenseekreis,40000.6354718602
+48,DE148,08436,"Ravensburg, Landkreis",37237.2838407013
+49,DE149,08437,"Sigmaringen, Landkreis",33980.4400977995
+50,DE2,09,Bayern,40128.6390591176
+51,DE21,091,"Oberbayern, Regierungsbezirk",47076.7070177054
+52,DE211,09161,"Ingolstadt, Kreisfreie Stadt",39081.464540584
+53,DE212,09162,"München, Landeshauptstadt, Kreisfreie Stadt",55892.1342962152
+54,DE213,09163,"Rosenheim, Kreisfreie Stadt",35790.5953887466
+55,DE214,09171,"Altötting, Landkreis",35882.0457552419
+56,DE215,09172,"Berchtesgadener Land, Landkreis",33710.0684316286
+57,DE216,09173,"Bad Tölz-Wolfratshausen, Landkreis",41951.5506711745
+58,DE217,09174,"Dachau, Landkreis",43245.5558520439
+59,DE218,09175,"Ebersberg, Landkreis",47925.7039980978
+60,DE219,09176,"Eichstätt, Landkreis",39512.5148811711
+61,DE21A,09177,"Erding, Landkreis",42154.1059742453
+62,DE21B,09178,"Freising, Landkreis",41526.3845054085
+63,DE21C,09179,"Fürstenfeldbruck, Landkreis",42636.7648646703
+64,DE21D,09180,"Garmisch-Partenkirchen, Landkreis",38030.216005586
+65,DE21E,09181,"Landsberg am Lech, Landkreis",42244.3156090303
+66,DE21F,09182,"Miesbach, Landkreis",52424.0771605243
+67,DE21G,09183,"Mühldorf a.Inn, Landkreis",36921.9234445784
+68,DE21H,09184,"München, Landkreis",54524.7728768005
+69,DE21I,09185,"Neuburg-Schrobenhausen, Landkreis",36704.6939810808
+70,DE21J,09186,"Pfaffenhofen a.d.Ilm, Landkreis",40839.0404756874
+71,DE21K,09187,"Rosenheim, Landkreis",41040.849111586
+72,DE21L,09188,"Starnberg, Landkreis",60465.0029512114
+73,DE21M,09189,"Traunstein, Landkreis",37580.7989143327
+74,DE21N,09190,"Weilheim-Schongau, Landkreis",39264.0899103058
+75,DE22,092,"Niederbayern, Regierungsbezirk",35420.592582618
+76,DE221,09261,"Landshut, Kreisfreie Stadt",40019.6643004047
+77,DE222,09262,"Passau, Kreisfreie Stadt",31491.4503083798
+78,DE223,09263,"Straubing, Kreisfreie Stadt",32726.7434808975
+79,DE224,09271,"Deggendorf, Landkreis",37967.2660550459
+80,DE225,09272,"Freyung-Grafenau, Landkreis",31719.7306312543
+81,DE226,09273,"Kelheim, Landkreis",36694.8541071995
+82,DE227,09274,"Landshut, Landkreis",39041.7395620827
+83,DE228,09275,"Passau, Landkreis",32107.3637501076
+84,DE229,09276,"Regen, Landkreis",31986.2414730471
+85,DE22A,09277,"Rottal-Inn, Landkreis",34549.705632289
+86,DE22B,09278,"Straubing-Bogen, Landkreis",36069.604854453
+87,DE22C,09279,"Dingolfing-Landau, Landkreis",37256.9480236292
+88,DE23,093,"Oberpfalz, Regierungsbezirk",35777.4576254798
+89,DE231,09361,"Amberg, Kreisfreie Stadt",32266.4241286234
+90,DE232,09362,"Regensburg, Kreisfreie Stadt",39561.5383644465
+91,DE233,09363,"Weiden i.d.OPf., Kreisfreie Stadt",32012.1753246753
+92,DE234,09371,"Amberg-Sulzbach, Landkreis",34482.8660138524
+93,DE235,09372,"Cham, Landkreis",33603.5613081106
+94,DE236,09373,"Neumarkt i.d.OPf., Landkreis",37666.3517976378
+95,DE237,09374,"Neustadt a.d.Waldnaab, Landkreis",33187.5604354471
+96,DE238,09375,"Regensburg, Landkreis",37856.6903600185
+97,DE239,09376,"Schwandorf, Landkreis",33813.6949170384
+98,DE23A,09377,"Tirschenreuth, Landkreis",35820.6069844789
+99,DE24,094,"Oberfranken, Regierungsbezirk",34196.3803412327
+100,DE241,09461,"Bamberg, Kreisfreie Stadt",34747.4893468564
+101,DE242,09462,"Bayreuth, Kreisfreie Stadt",32386.6839787436
+102,DE243,09463,"Coburg, Kreisfreie Stadt",36571.2414565026
+103,DE244,09464,"Hof, Kreisfreie Stadt",28206.8361461226
+104,DE245,09471,"Bamberg, Landkreis",35621.6975641086
+105,DE246,09472,"Bayreuth, Landkreis",34155.6316990064
+106,DE247,09473,"Coburg, Landkreis",33870.7631249928
+107,DE248,09474,"Forchheim, Landkreis",38596.7786913645
+108,DE249,09475,"Hof, Landkreis",30375.5518150348
+109,DE24A,09476,"Kronach, Landkreis",33214.5785602315
+110,DE24B,09477,"Kulmbach, Landkreis",34008.9130283406
+111,DE24C,09478,"Lichtenfels, Landkreis",31711.6337000682
+112,DE24D,09479,"Wunsiedel i.Fichtelgebirge, Landkreis",36663.2541082665
+113,DE25,095,"Mittelfranken, Regierungsbezirk",37841.9374408798
+114,DE251,09561,"Ansbach, Kreisfreie Stadt",31951.1664221833
+115,DE252,09562,"Erlangen, Kreisfreie Stadt",41313.0717504096
+116,DE253,09563,"Fürth, Kreisfreie Stadt",41723.9567913886
+117,DE254,09564,"Nürnberg, Kreisfreie Stadt",35017.7787436685
+118,DE255,09565,"Schwabach, Kreisfreie Stadt",39834.5196591129
+119,DE256,09571,"Ansbach, Landkreis",35491.9183371238
+120,DE257,09572,"Erlangen-Höchstadt, Landkreis",47403.0200487059
+121,DE258,09573,"Fürth, Landkreis",39918.0563086548
+122,DE259,09574,"Nürnberger Land, Landkreis",39755.3051741
+123,DE25A,09575,"Neustadt a.d.Aisch-Bad Windsheim, Landkreis",34700.219368181
+124,DE25B,09576,"Roth, Landkreis",38346.8968988346
+125,DE25C,09577,"Weißenburg-Gunzenhausen, Landkreis",32739.9843618181
+126,DE26,096,"Unterfranken, Regierungsbezirk",35884.1600701566
+127,DE261,09661,"Aschaffenburg, Kreisfreie Stadt",37534.293694363
+128,DE262,09662,"Schweinfurt, Kreisfreie Stadt",30490.2589710412
+129,DE263,09663,"Würzburg, Kreisfreie Stadt",37020.2533820727
+130,DE264,09671,"Aschaffenburg, Landkreis",37743.2022462388
+131,DE265,09672,"Bad Kissingen, Landkreis",32671.1447203842
+132,DE266,09673,"Rhön-Grabfeld, Landkreis",41136.1212286961
+133,DE267,09674,"Haßberge, Landkreis",34145.7183779849
+134,DE268,09675,"Kitzingen, Landkreis",35834.6679781468
+135,DE269,09676,"Miltenberg, Landkreis",34929.6612579651
+136,DE26A,09677,"Main-Spessart, Landkreis",34792.176595728
+137,DE26B,09678,"Schweinfurt, Landkreis",34775.0002139513
+138,DE26C,09679,"Würzburg, Landkreis",36857.0488438085
+139,DE27,097,"Schwaben, Regierungsbezirk",36917.2819320022
+140,DE271,09761,"Augsburg, Kreisfreie Stadt",32747.1995286204
+141,DE272,09762,"Kaufbeuren, Kreisfreie Stadt",32467.2047560155
+142,DE273,09763,"Kempten (Allgäu), Kreisfreie Stadt",33824.1954961995
+143,DE274,09764,"Memmingen, Kreisfreie Stadt",36478.6822547699
+144,DE275,09771,"Aichach-Friedberg, Landkreis",40274.7533902052
+145,DE276,09772,"Augsburg, Landkreis",38697.1652823287
+146,DE277,09773,"Dillingen a.d.Donau, Landkreis",37033.5357590966
+147,DE278,09774,"Günzburg, Landkreis",37014.0350608823
+148,DE279,09775,"Neu-Ulm, Landkreis",37675.8413997895
+149,DE27A,09776,"Lindau (Bodensee), Landkreis",37693.3510510942
+150,DE27B,09777,"Ostallgäu, Landkreis",36644.8025233132
+151,DE27C,09778,"Unterallgäu, Landkreis",38241.518883361
+152,DE27D,09779,"Donau-Ries, Landkreis",39469.4011079285
+153,DE27E,09780,"Oberallgäu, Landkreis",37133.2609146108
+154,DE3,11,Berlin,32465.5099719348
+155,DE4,12,Brandenburg,28880.4279970404
+156,DE401,12051,"Brandenburg an der Havel, Kreisfreie Stadt",23126.3336270589
+157,DE402,12052,"Cottbus, Kreisfreie Stadt",24434.5498832232
+158,DE403,12053,"Frankfurt (Oder), Kreisfreie Stadt",21845.8068484724
+159,DE404,12054,"Potsdam, Kreisfreie Stadt",34457.4784777536
+160,DE405,12060,"Barnim, Landkreis",30260.5975578072
+161,DE406,12061,"Dahme-Spreewald, Landkreis",30739.7232816458
+162,DE407,12062,"Elbe-Elster, Landkreis",23668.3928020156
+163,DE408,12063,"Havelland, Landkreis",30847.7213216041
+164,DE409,12064,"Märkisch-Oderland, Landkreis",29102.0667457225
+165,DE40A,12065,"Oberhavel, Landkreis",32533.1888451462
+166,DE40B,12066,"Oberspreewald-Lausitz, Landkreis",23474.5007182244
+167,DE40C,12067,"Oder-Spree, Landkreis",27420.8866822494
+168,DE40D,12068,"Ostprignitz-Ruppin, Landkreis",25209.6896896897
+169,DE40E,12069,"Potsdam-Mittelmark, Landkreis",35410.2651470997
+170,DE40F,12070,"Prignitz, Landkreis",24072.3061323923
+171,DE40G,12071,"Spree-Neiße, Landkreis",25605.2659716653
+172,DE40H,12072,"Teltow-Fläming, Landkreis",29681.8855067159
+173,DE40I,12073,"Uckermark, Landkreis",23250.5516702879
+174,DE5,04,Bremen,30578.8991172249
+175,DE501,04011,"Bremen, Kreisfreie Stadt",32050.4177344817
+176,DE502,04012,"Bremerhaven, Kreisfreie Stadt",23248.8420394011
+177,DE6,02,Hamburg,39478.4190125824
+178,DE7,06,Hessen,36138.1580991079
+179,DE71,064,"Darmstadt, Regierungsbezirk",39191.7220534225
+180,DE711,06411,"Darmstadt, Wissenschaftsstadt, Kreisfreie Stadt",36127.3070854585
+181,DE712,06412,"Frankfurt am Main, Kreisfreie Stadt",43001.9085029099
+182,DE713,06413,"Offenbach am Main, Kreisfreie Stadt",28961.7073351628
+183,DE714,06414,"Wiesbaden, Landeshauptstadt, Kreisfreie Stadt",43088.7750041329
+184,DE715,06431,"Bergstraße, Landkreis",36519.3834995467
+185,DE716,06432,"Darmstadt-Dieburg, Landkreis",37294.3902430928
+186,DE717,06433,"Groß-Gerau, Landkreis",32410.8394719049
+187,DE718,06434,Hochtaunuskreis,53735.4128806624
+188,DE719,06435,Main-Kinzig-Kreis,35096.3392072522
+189,DE71A,06436,Main-Taunus-Kreis,45964.4080637723
+190,DE71B,06437,Odenwaldkreis,30532.8506880263
+191,DE71C,06438,"Offenbach, Landkreis",37451.2231039618
+192,DE71D,06439,Rheingau-Taunus-Kreis,38364.3539938661
+193,DE71E,06440,Wetteraukreis,36980.1402199862
+194,DE72,065,"Gießen, Regierungsbezirk",31087.4338603313
+195,DE721,06531,"Gießen, Landkreis",30586.9300737836
+196,DE722,06532,Lahn-Dill-Kreis,30934.553238021
+197,DE723,06533,"Limburg-Weilburg, Landkreis",32882.4727446987
+198,DE724,06534,"Marburg-Biedenkopf, Landkreis",31192.003615089
+199,DE725,06535,Vogelsbergkreis,29575.1921582579
+200,DE73,066,"Kassel, Regierungsbezirk",30387.5347120075
+201,DE731,06611,"Kassel, documenta-Stadt, Kreisfreie Stadt",29395.8130548558
+202,DE732,06631,"Fulda, Landkreis",32607.7909551264
+203,DE733,06632,"Hersfeld-Rotenburg, Landkreis",29182.0809010596
+204,DE734,06633,"Kassel, Landkreis",30897.3877886487
+205,DE735,06634,Schwalm-Eder-Kreis,30562.4371749486
+206,DE736,06635,"Waldeck-Frankenberg, Landkreis",30415.1546754454
+207,DE737,06636,Werra-Meißner-Kreis,27228.7849758512
+208,DE8,13,Mecklenburg-Vorpommern,25965.5581823796
+209,DE803,13003,"Rostock, Hansestadt, Kreisfreie Stadt",25833.0417668926
+210,DE804,13004,"Schwerin, Landeshauptstadt, Kreisfreie Stadt",25755.3843814929
+211,DE80J,13071,"Mecklenburgische Seenplatte, Landkreis",24612.5423990133
+212,DE80K,13072,Landkreis Rostock,28316.6213667754
+213,DE80L,13073,"Vorpommern-Rügen, Landkreis",24771.4379816876
+214,DE80M,13074,"Nordwestmecklenburg, Landkreis",26766.1609889733
+215,DE80N,13075,"Vorpommern-Greifswald, Landkreis",23749.6185779913
+216,DE80O,13076,"Ludwigslust-Parchim, Landkreis",28530.2439411702
+217,DE9,03,Niedersachsen,32655.0981019522
+218,DE91,031,Statistische Region Braunschweig,32251.9320292898
+219,DE911,03101,"Braunschweig, Kreisfreie Stadt",36249.2746144839
+220,DE912,03102,"Salzgitter, Kreisfreie Stadt",25481.1725862168
+221,DE913,03103,"Wolfsburg, Kreisfreie Stadt",35022.1232297862
+222,DE914,03151,"Gifhorn, Landkreis",35087.8219621404
+223,DE916,03153,"Goslar, Landkreis",28956.3304824675
+224,DE917,03154,"Helmstedt, Landkreis",32599.4235999003
+225,DE918,03155,"Northeim, Landkreis",29963.0650868902
+226,DE91A,03157,"Peine, Landkreis",32060.9200940662
+227,DE91B,03158,"Wolfenbüttel, Landkreis",33412.0172741062
+228,DE91C,03159,"Göttingen, Landkreis",30556.1247927473
+229,DE92,032,Statistische Region Hannover,32556.2136683844
+230,DE922,03251,"Diepholz, Landkreis",34817.0684745034
+231,DE923,03252,"Hameln-Pyrmont, Landkreis",30053.6379884259
+232,DE925,03254,"Hildesheim, Landkreis",30835.5914978579
+233,DE926,03255,"Holzminden, Landkreis",29143.5975652813
+234,DE927,03256,"Nienburg (Weser), Landkreis",30082.7302937443
+235,DE928,03257,"Schaumburg, Landkreis",31229.3657634699
+236,DE929,03241,"Region Hannover, Landkreis",33500.9644628605
+237,DE93,033,Statistische Region Lüneburg,33748.0297508055
+238,DE931,03351,"Celle, Landkreis",30260.7960564957
+239,DE932,03352,"Cuxhaven, Landkreis",31814.731235059
+240,DE933,03353,"Harburg, Landkreis",40190.5858353663
+241,DE934,03354,"Lüchow-Dannenberg, Landkreis",25859.1291620929
+242,DE935,03355,"Lüneburg, Landkreis",34186.7421867528
+243,DE936,03356,"Osterholz, Landkreis",34443.0436237867
+244,DE937,03357,"Rotenburg (Wümme), Landkreis",34331.9010408918
+245,DE938,03358,"Heidekreis, Landkreis",29964.7972724816
+246,DE939,03359,"Stade, Landkreis",35103.3207357495
+247,DE93A,03360,"Uelzen, Landkreis",29336.0992346266
+248,DE93B,03361,"Verden, Landkreis",34716.8517193246
+249,DE94,034,Statistische Region Weser-Ems,32247.9328785814
+250,DE941,03401,"Delmenhorst, Kreisfreie Stadt",25844.0049820798
+251,DE942,03402,"Emden, Kreisfreie Stadt",26049.291459968
+252,DE943,03403,"Oldenburg (Oldb), Kreisfreie Stadt",34596.60968169
+253,DE944,03404,"Osnabrück, Kreisfreie Stadt",35395.362610147
+254,DE945,03405,"Wilhelmshaven, Kreisfreie Stadt",25265.6496166369
+255,DE946,03451,"Ammerland, Landkreis",33372.2383257824
+256,DE947,03452,"Aurich, Landkreis",28846.3138192784
+257,DE948,03453,"Cloppenburg, Landkreis",32119.1693846732
+258,DE949,03454,"Emsland, Landkreis",33197.1984220116
+259,DE94A,03455,"Friesland, Landkreis",30621.3789396142
+260,DE94B,03456,"Grafschaft Bentheim, Landkreis",31166.2264843794
+261,DE94C,03457,"Leer, Landkreis",28333.2337942757
+262,DE94D,03458,"Oldenburg, Landkreis",35852.3687875651
+263,DE94E,03459,"Osnabrück, Landkreis",34203.2903269848
+264,DE94F,03460,"Vechta, Landkreis",37537.3902184094
+265,DE94G,03461,"Wesermarsch, Landkreis",30530.0507444376
+266,DE94H,03462,"Wittmund, Landkreis",28796.3616430847
+267,DEA,05,Nordrhein-Westfalen,33316.7272317088
+268,DEA1,051,"Düsseldorf, Regierungsbezirk",33444.0177059167
+269,DEA11,05111,"Düsseldorf, Kreisfreie Stadt",44964.6677204141
+270,DEA12,05112,"Duisburg, Kreisfreie Stadt",24141.5443405924
+271,DEA13,05113,"Essen, Kreisfreie Stadt",31339.5389980089
+272,DEA14,05114,"Krefeld, Kreisfreie Stadt",31937.8348097055
+273,DEA15,05116,"Mönchengladbach, Kreisfreie Stadt",29324.8035012504
+274,DEA16,05117,"Mülheim an der Ruhr, Kreisfreie Stadt",34525.0361627032
+275,DEA17,05119,"Oberhausen, Kreisfreie Stadt",26037.5802277187
+276,DEA18,05120,"Remscheid, Kreisfreie Stadt",30729.2361160366
+277,DEA19,05122,"Solingen, Kreisfreie Stadt",33861.6708257291
+278,DEA1A,05124,"Wuppertal, Kreisfreie Stadt",29717.4922751576
+279,DEA1B,05154,"Kleve, Kreis",29801.3458555328
+280,DEA1C,05158,"Mettmann, Kreis",37425.2024904953
+281,DEA1D,05162,"Rhein-Kreis Neuss, Kreis",39467.3259198285
+282,DEA1E,05166,"Viersen, Kreis",34732.0527089876
+283,DEA1F,05170,"Wesel, Kreis",31565.3570471956
+284,DEA2,053,"Köln, Regierungsbezirk",35217.3183707164
+285,DEA22,05314,"Bonn, Kreisfreie Stadt",38426.1424997099
+286,DEA23,05315,"Köln, Kreisfreie Stadt",38222.2942439499
+287,DEA24,05316,"Leverkusen, Kreisfreie Stadt",32581.3609022104
+288,DEA26,05358,"Düren, Kreis",31311.1830726771
+289,DEA27,05362,Rhein-Erft-Kreis,34680.2597391765
+290,DEA28,05366,"Euskirchen, Kreis",31833.890741319
+291,DEA29,05370,"Heinsberg, Kreis",29961.5435947301
+292,DEA2A,05374,Oberbergischer Kreis,33994.9486518852
+293,DEA2B,05378,Rheinisch-Bergischer Kreis,40394.8292471797
+294,DEA2C,05382,Rhein-Sieg-Kreis,36713.2381414948
+295,DEA2D,05334,"Städteregion Aachen, Kreis",30614.5834442469
+296,DEA3,055,"Münster, Regierungsbezirk",32221.0126793616
+297,DEA31,05512,"Bottrop, Kreisfreie Stadt",29698.5533194267
+298,DEA32,05513,"Gelsenkirchen, Kreisfreie Stadt",22075.7327666076
+299,DEA33,05515,"Münster, Kreisfreie Stadt",37231.022753747
+300,DEA34,05554,"Borken, Kreis",34921.3879884001
+301,DEA35,05558,"Coesfeld, Kreis",36803.6872410458
+302,DEA36,05562,"Recklinghausen, Kreis",28977.7600054177
+303,DEA37,05566,"Steinfurt, Kreis",33238.8637703951
+304,DEA38,05570,"Warendorf, Kreis",35240.8205701272
+305,DEA4,057,"Detmold, Regierungsbezirk",33379.5459272728
+306,DEA41,05711,"Bielefeld, Kreisfreie Stadt",32466.2012997568
+307,DEA42,05754,"Gütersloh, Kreis",37030.167363567
+308,DEA43,05758,"Herford, Kreis",33252.1117531893
+309,DEA44,05762,"Höxter, Kreis",31353.6598261556
+310,DEA45,05766,"Lippe, Kreis",32134.5745820067
+311,DEA46,05770,"Minden-Lübbecke, Kreis",32570.0586867457
+312,DEA47,05774,"Paderborn, Kreis",33258.8443602402
+313,DEA5,059,"Arnsberg, Regierungsbezirk",31513.6578525608
+314,DEA51,05911,"Bochum, Kreisfreie Stadt",29554.3402246602
+315,DEA52,05913,"Dortmund, Kreisfreie Stadt",29326.1473029674
+316,DEA53,05914,"Hagen, Kreisfreie Stadt",26812.8402152132
+317,DEA54,05915,"Hamm, Kreisfreie Stadt",25956.9259699676
+318,DEA55,05916,"Herne, Kreisfreie Stadt",23999.6701177426
+319,DEA56,05954,Ennepe-Ruhr-Kreis,35394.1212661888
+320,DEA57,05958,Hochsauerlandkreis,35278.024232837
+321,DEA58,05962,Märkischer Kreis,33756.7325985498
+322,DEA59,05966,"Olpe, Kreis",39573.6237405682
+323,DEA5A,05970,"Siegen-Wittgenstein, Kreis",33210.9498304326
+324,DEA5B,05974,"Soest, Kreis",34356.0323920998
+325,DEA5C,05978,"Unna, Kreis",30289.3548152732
+326,DEB,07,Rheinland-Pfalz,33538.7086423386
+327,DEB1,071,Statistische Region Koblenz,32871.1226558873
+328,DEB11,07111,"Koblenz, Kreisfreie Stadt",32647.9359489257
+329,DEB12,07131,"Ahrweiler, Landkreis",32802.9053880468
+330,DEB13,07132,"Altenkirchen (Westerwald), Landkreis",29852.4000091125
+331,DEB14,07133,"Bad Kreuznach, Landkreis",30236.3287535586
+332,DEB15,07134,"Birkenfeld, Landkreis",27951.2335194712
+333,DEB17,07137,"Mayen-Koblenz, Landkreis",32178.1881558603
+334,DEB18,07138,"Neuwied, Landkreis",41166.4146120667
+335,DEB1A,07141,Rhein-Lahn-Kreis,30688.0839246155
+336,DEB1B,07143,Westerwaldkreis,34284.7076940958
+337,DEB1C,07135,"Cochem-Zell, Landkreis",30025.5313716729
+338,DEB1D,07140,Rhein-Hunsrück-Kreis,32989.1875047216
+339,DEB2,072,Statistische Region Trier,33273.8747825578
+340,DEB21,07211,"Trier, Kreisfreie Stadt",33118.7025412125
+341,DEB22,07231,"Bernkastel-Wittlich, Landkreis",31060.0828909298
+342,DEB23,07232,Eifelkreis Bitburg-Prüm,33914.1563659432
+343,DEB24,07233,"Vulkaneifel, Landkreis",30324.3369987063
+344,DEB25,07235,"Trier-Saarburg, Landkreis",35796.186873119
+345,DEB3,073,Statistische Region Rheinhessen-Pfalz,34093.9169043839
+346,DEB31,07311,"Frankenthal (Pfalz), Kreisfreie Stadt",29644.0329218107
+347,DEB32,07312,"Kaiserslautern, Kreisfreie Stadt",26604.6942983711
+348,DEB33,07313,"Landau in der Pfalz, Kreisfreie Stadt",32798.1490745373
+349,DEB34,07314,"Ludwigshafen am Rhein, Kreisfreie Stadt",28336.701143914
+350,DEB35,07315,"Mainz, Kreisfreie Stadt",36510.4569297173
+351,DEB36,07316,"Neustadt an der Weinstraße, Kreisfreie Stadt",37474.53197405
+352,DEB37,07317,"Pirmasens, Kreisfreie Stadt",24109.7961383907
+353,DEB38,07318,"Speyer, Kreisfreie Stadt",35481.3789338221
+354,DEB39,07319,"Worms, Kreisfreie Stadt",29413.4714782445
+355,DEB3A,07320,"Zweibrücken, Kreisfreie Stadt",28139.1797304333
+356,DEB3B,07331,"Alzey-Worms, Landkreis",33831.0235142838
+357,DEB3C,07332,"Bad Dürkheim, Landkreis",38545.4883085242
+358,DEB3D,07333,Donnersbergkreis,30573.88243946
+359,DEB3E,07334,"Germersheim, Landkreis",33698.6091412362
+360,DEB3F,07335,"Kaiserslautern, Landkreis",29426.230415767
+361,DEB3G,07336,"Kusel, Landkreis",27868.2627172129
+362,DEB3H,07337,"Südliche Weinstraße, Landkreis",34392.5169826715
+363,DEB3I,07338,Rhein-Pfalz-Kreis,39456.3964287087
+364,DEB3J,07339,"Mainz-Bingen, Landkreis",45245.4106370022
+365,DEB3K,07340,"Südwestpfalz, Landkreis",30998.4721724654
+366,DEC,10,Saarland,29371.7496439517
+367,DEC01,10041,"Saarbrücken, Regionalverband",28302.7879796646
+368,DEC02,10042,"Merzig-Wadern, Landkreis",25995.6120180884
+369,DEC03,10043,"Neunkirchen, Landkreis",28436.7301908749
+370,DEC04,10044,"Saarlouis, Landkreis",29927.0246672147
+371,DEC05,10045,Saarpfalz-Kreis,32886.5516708573
+372,DEC06,10046,"St. Wendel, Landkreis",31917.7370206405
+373,DED,14,Sachsen,26776.1119034397
+374,DED2,146,"Dresden, NUTS 2-Region",27209.1859239261
+375,DED21,14612,"Dresden, Kreisfreie Stadt",29569.4677087502
+376,DED2C,14625,"Bautzen, Landkreis",26231.608601557
+377,DED2D,14626,"Görlitz, Landkreis",22321.4951019753
+378,DED2E,14627,"Meißen, Landkreis",28037.1893290004
+379,DED2F,14628,"Sächsische Schweiz-Osterzgebirge, Landkreis",27108.0460610789
+380,DED4,145,"Chemnitz, NUTS 2-Region",25301.8196665185
+381,DED41,14511,"Chemnitz, Kreisfreie Stadt",24877.8828704316
+382,DED42,14521,Erzgebirgskreis,24688.6782382203
+383,DED43,14522,"Mittelsachsen, Landkreis",25681.1404647324
+384,DED44,14523,Vogtlandkreis,24939.9307273627
+385,DED45,14524,"Zwickau, Landkreis",26182.1853611402
+386,DED5,147,"Leipzig, NUTS 2-Region",28062.4931633328
+387,DED51,14713,"Leipzig, Kreisfreie Stadt",27909.4298405301
+388,DED52,14729,"Leipzig, Landkreis",29266.5353772591
+389,DED53,14730,"Nordsachsen, Landkreis",26962.8246460682
+390,DEE,15,Sachsen-Anhalt,25310.3960255474
+391,DEE01,15001,"Dessau-Roßlau, Kreisfreie Stadt",23858.2922267826
+392,DEE02,15002,"Halle (Saale), Kreisfreie Stadt",23979.1803475036
+393,DEE03,15003,"Magdeburg, Landeshauptstadt, Kreisfreie Stadt",26152.9795026237
+394,DEE04,15081,Altmarkkreis Salzwedel,26380.5535944689
+395,DEE05,15082,"Anhalt-Bitterfeld, Landkreis",25008.2707293917
+396,DEE06,15086,"Jerichower Land, Landkreis",27559.8823333518
+397,DEE07,15083,"Börde, Landkreis",28306.5559118869
+398,DEE08,15084,Burgenlandkreis,24504.7829203185
+399,DEE09,15085,"Harz, Landkreis",24930.469674415
+400,DEE0A,15087,"Mansfeld-Südharz, Landkreis",22481.6613836249
+401,DEE0B,15088,Saalekreis,27505.0864948538
+402,DEE0C,15089,Salzlandkreis,23657.0192965355
+403,DEE0D,15090,"Stendal, Landkreis",24868.7307853232
+404,DEE0E,15091,"Wittenberg, Landkreis",25520.3654697452
+405,DEF,01,Schleswig-Holstein,34434.5633575617
+406,DEF01,01001,"Flensburg, Kreisfreie Stadt",26969.6573767128
+407,DEF02,01002,"Kiel, Landeshauptstadt, Kreisfreie Stadt",30463.2272095693
+408,DEF03,01003,"Lübeck, Hansestadt, Kreisfreie Stadt",29849.7964038981
+409,DEF04,01004,"Neumünster, Kreisfreie Stadt",27212.814989229
+410,DEF05,01051,"Dithmarschen, Kreis",31879.345603272
+411,DEF06,01053,"Herzogtum Lauenburg, Kreis",35853.4272594652
+412,DEF07,01054,"Nordfriesland, Kreis",37366.824952072
+413,DEF08,01055,"Ostholstein, Kreis",33468.5080488965
+414,DEF09,01056,"Pinneberg, Kreis",38583.5164699109
+415,DEF0A,01057,"Plön, Kreis",34098.0444417368
+416,DEF0B,01058,"Rendsburg-Eckernförde, Kreis",35923.6101667013
+417,DEF0C,01059,"Schleswig-Flensburg, Kreis",31087.5021822202
+418,DEF0D,01060,"Segeberg, Kreis",36187.8831943289
+419,DEF0E,01061,"Steinburg, Kreis",33646.8594157263
+420,DEF0F,01062,"Stormarn, Kreis",40854.9451878124
+421,DEG,16,Thüringen,26569.0
+422,DEG01,16051,"Erfurt, Kreisfreie Stadt",28811.0
+423,DEG02,16052,"Gera, Kreisfreie Stadt",23235.0
+424,DEG03,16053,"Jena, Kreisfreie Stadt",30503.0
+425,DEG05,16055,"Weimar, Kreisfreie Stadt",27510.0
+426,DEG06x,16061,"Eichsfeld, Landkreis",28265.0
+427,DEG07,16062,"Nordhausen, Landkreis",24159.0
+428,DEG09x,16064,Unstrut-Hainich-Kreis,25231.0
+429,DEG0A,16065,Kyffhäuserkreis,23425.0
+430,DEG0C,16067,"Gotha, Landkreis",26628.0
+431,DEG0D,16068,"Sömmerda, Landkreis",26265.0
+432,DEG0E,16069,"Hildburghausen, Landkreis",27493.0
+433,DEG0G,16071,"Weimarer Land, Landkreis",28499.0
+434,DEG0J,16074,Saale-Holzland-Kreis,27619.0
+435,DEG0K,16075,Saale-Orla-Kreis,25629.0
+436,DEG0L,16076,"Greiz, Landkreis",25412.0
+437,DEG0M,16077,"Altenburger Land, Landkreis",23773.0
+438,DEG0Q,16066,"Schmalkalden-Meiningen, Landkreis",26706.0
+439,DEG0Rx,16063,Wartburgkreis,27294.0
+440,DEG0S,16054,"Suhl, Kreisfreie Stadt",24903.0
+441,DEG0T,16070,Ilm-Kreis,26245.0
+442,DEG0U,16073,"Saalfeld-Rudolstadt, Landkreis",25483.0
+443,DEG0V,16072,"Sonneberg, Landkreis",25324.0
+444,DE,17,Deutschland,34270.0
